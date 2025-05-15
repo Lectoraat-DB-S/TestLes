@@ -19,5 +19,8 @@ https://github.com/matiassingers/awesome-readme
 
 https://integrity.mit.edu/handbook/academic-integrity-handbook
 
-aangepastaangepast
+<<<<<<< HEAD
+aangepast
 =======
+veranderd
+>>>>>>> 9c0a756fb366c2b8430345acdc5a9167676e00cf
